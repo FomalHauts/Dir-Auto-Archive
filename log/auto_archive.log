@@ -1,0 +1,9 @@
+2021-08-19 10:33:31 base.py[line:445] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-08-19 10:33:31 base.py[line:886] INFO Added job "auto_archive.launch" to job store "default"
+2021-08-19 10:33:31 base.py[line:171] INFO Scheduler started
+2021-08-19 10:34:00 base.py[line:123] INFO Running job "auto_archive.launch (trigger: cron[day_of_week='mon-fri', hour='10', minute='34'], next run at: 2021-08-19 10:34:00 CST)" (scheduled at 2021-08-19 10:34:00+08:00)
+2021-08-19 10:34:00 base.py[line:144] INFO Job "auto_archive.launch (trigger: cron[day_of_week='mon-fri', hour='10', minute='34'], next run at: 2021-08-20 10:34:00 CST)" executed successfully
+2021-08-19 10:34:00 auto_archive.py[line:124] INFO auto archive success...
+2021-09-18 16:21:25 base.py[line:445] INFO Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2021-09-18 16:21:25 base.py[line:886] INFO Added job "auto_archive.launch" to job store "default"
+2021-09-18 16:21:25 base.py[line:171] INFO Scheduler started
